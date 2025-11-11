@@ -1,4 +1,4 @@
-package com.matamoros.ivsemestre
+package com.matamoros.prepromo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

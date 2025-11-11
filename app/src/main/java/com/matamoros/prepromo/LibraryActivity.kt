@@ -1,4 +1,4 @@
-package com.matamoros.ivsemestre
+package com.matamoros.prepromo
 
 import android.Manifest
 import android.content.Intent
@@ -8,7 +8,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.GridLayoutManager
-import com.matamoros.ivsemestre.databinding.ActivityLibraryBinding
+import com.matamoros.prepromo.databinding.ActivityLibraryBinding
 
 class LibraryActivity : AppCompatActivity() {
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IV SEMESTRE</string>
+    <string name="app_name">PRE PROMO</string>
     <string name="title_activity_ver_usuarios">VerUsuariosActivity</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>

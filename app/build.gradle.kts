@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.matamoros.ivsemestre"
+    namespace = "com.matamoros.prepromo"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.matamoros.ivsemestre"
+        applicationId = "com.matamoros.prepromo"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

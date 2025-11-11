@@ -1,4 +1,4 @@
-package com.matamoros.ivsemestre
+package com.matamoros.prepromo
 
 data class Book(
     val id: Int,

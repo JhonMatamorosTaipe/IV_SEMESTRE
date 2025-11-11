@@ -1,11 +1,11 @@
-package com.matamoros.ivsemestre
+package com.matamoros.prepromo
 
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.matamoros.ivsemestre.databinding.ItemBookBinding
+import com.matamoros.prepromo.databinding.ItemBookBinding
 
 class BookAdapter(private val books: List<Book>)
     : RecyclerView.Adapter<BookAdapter.BookViewHolder>() {

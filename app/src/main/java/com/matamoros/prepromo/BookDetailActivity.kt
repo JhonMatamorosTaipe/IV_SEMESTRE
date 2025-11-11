@@ -1,10 +1,10 @@
-package com.matamoros.ivsemestre
+package com.matamoros.prepromo
 
 
 import android.os.Bundle
 import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
-import com.matamoros.ivsemestre.databinding.ActivityBookDetailBinding
+import com.matamoros.prepromo.databinding.ActivityBookDetailBinding
 
 class BookDetailActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.matamoros.ivsemestre
+package com.matamoros.prepromo
 
 import org.junit.Test
 

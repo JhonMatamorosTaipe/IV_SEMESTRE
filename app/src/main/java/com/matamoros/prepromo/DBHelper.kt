@@ -1,4 +1,4 @@
-package com.matamoros.ivsemestre
+package com.matamoros.prepromo
 
 
 import android.content.ContentValues
